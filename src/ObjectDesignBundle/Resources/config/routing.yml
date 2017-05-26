@@ -1,0 +1,3 @@
+object_design_homepage:
+    path:     /
+    defaults: { _controller: ObjectDesignBundle:Default:index }

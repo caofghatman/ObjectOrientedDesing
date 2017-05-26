@@ -1,3 +1,0 @@
-object_oriented_design_homepage:
-    path:     /
-    defaults: { _controller: ObjectOrientedDesignBundle:Default:index }

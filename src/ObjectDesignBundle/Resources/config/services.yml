@@ -1,0 +1,4 @@
+services:
+#    object_design.example:
+#        class: ObjectDesignBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
